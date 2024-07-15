@@ -11,4 +11,4 @@ for cuy in range(x,y + 1):
     if cuy%2:
         print('ganjil: ' + str(cuy))
     else:
-        print('genap: ' + str(cuy) + '\n') #<---------looping dengan memisahkan ganjil dan genap
+        print('genap: ' + str(cuy) + '\n') #<---------looping 0 - 20 dengan memisahkan ganjil dan genap
